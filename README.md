@@ -46,6 +46,7 @@ This project classifies chest X-ray images into **NORMAL** and **PNEUMONIA** usi
 ---
 
 ## 📷 Sample Outputs
+<img width="799" height="819" alt="Screenshot 2026-04-09 215600" src="https://github.com/user-attachments/assets/8b2c06b5-7d69-495a-bd21-8f99589eb0d2" />
 
 
 ## 🚀 Future Work
